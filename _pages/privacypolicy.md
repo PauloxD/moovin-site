@@ -10,7 +10,7 @@ January 07 2022
 # Privacy Policy
 Your data privacy is important to us. We have done our best to outline how your data is collected, stored and deleted, as easily as possible. We encourage you to read the entire document. The Moovin' iOS app maybe referred to as ‘Moovin'’, ‘iOS app’ or ‘app’ within this document.
 
-##### The Shortened version:
+#### The Shortened version:
 We do **NOT** collect any data from you. No way to see what you're storing, no analytics of how you use the app. Your data is exactly that...yours.
 
 <br>
