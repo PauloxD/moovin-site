@@ -55,7 +55,9 @@ features                                  :
     description                           : We do not do any analytics or tracking. Honestly, your data is your data.
     fontawesome_icon_name                 : low-vision
   
-
+  - title                                 : SwiftUI
+    description                           : Moovin' has been built using SwiftUI. Been a hell of a journey.
+    fontawesome_icon_name                 : swift
 
 
 
