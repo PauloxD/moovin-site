@@ -11,7 +11,7 @@ This is the moves that we have been making. From the first days of the building,
 ### `Beta`
 
 # **0.9(3)**
-Buld 3 of version 0.9 fixes a few issues. They are listed below.
+Build 3 of version 0.9 fixes a few issues. They are listed below.
 #### Bug Fixes
 - macOS. Not having a home move, means that clicking the plus button wouldn't work. Now it will show a create your first move screen.
 - iOS. Code Recognition improvements.
