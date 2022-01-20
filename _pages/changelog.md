@@ -5,10 +5,16 @@ include_in_header: true
 ---
 
 # Changelog
-This is the moves that we have been making. From the first days of the building, to moving in day.
+These are the moves that I have been making. From the first days of building, to moving-in day.
 
 
 ### `Beta`
+
+# **0.9(4)**
+Build 4 of version 0.9 fixes a few issues. They are listed below.
+#### Bug Fixes
+- iOS. Tapping close on the camera immediately after scanning a code would cause a crash.
+- Improved Bounding Box detection for codes. It's not perfect, but it will do, for now.
 
 # **0.9(3)**
 Build 3 of version 0.9 fixes a few issues. They are listed below.
