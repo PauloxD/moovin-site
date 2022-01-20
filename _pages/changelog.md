@@ -10,11 +10,19 @@ This is the moves that we have been making. From the first days of the building,
 
 ### `Beta`
 
+# **0.9(3)**
+Buld 3 of version 0.9 fixes a few issues. They are listed below.
+#### Bug Fixes
+- macOS. Not having a home move, means that clicking the plus button wouldn't work. Now it will show a create your first move screen.
+- iOS. Code Recognition improvements.
+- WelcomeSheet for some reason would not dismiss. This has been fixed.
+
 # **0.9**
 Version 0.9 has been submitted for Beta testing on iOS and macOS. The iOS version was **approved** almost immediately, and the macOS version needing some fixes, which are detailed below.
 
 #### Bug Fixes
 - macOS sidebar size was hiding the 2 main buttons, increasing the minium width of the sidebar seems to have resolved this.
+- macOS. Not having a home move, means that clicking the plus button wouldn't work. Now it will show a create your first move screen.
 
 
 <br>
