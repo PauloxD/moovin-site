@@ -11,10 +11,17 @@ These are the moves that I have been making. From the first days of building, to
 ### `Beta`
 
 # **0.9(4)**
-Build 4 of version 0.9 fixes a few issues. They are listed below.
+Build 4 of version 0.9 fixes a few issues. It also adds a few tweaks and life improvements
+
+#### What's new
+- macOS. Nice little animation for the AppIcon. Not really required, but looks cool.
+- Updated Licence Agreements.
+- Added some UITests to the app. Hopefully it helps to ensure the product always works
+- Added some Accessibility items. A long way to go, but it's better than nothing.
+
 #### Bug Fixes
 - iOS. Tapping close on the camera immediately after scanning a code would cause a crash.
-- Improved Bounding Box detection for codes. It's not perfect, but it will do, for now.
+- iOS. Improved Bounding Box detection for codes. It's not perfect, but it will do, for now.
 
 # **0.9(3)**
 Build 3 of version 0.9 fixes a few issues. They are listed below.
