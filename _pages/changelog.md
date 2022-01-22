@@ -10,6 +10,13 @@ These are the moves that I have been making. From the first days of building, to
 
 ### `Beta`
 
+# **0.9(5)**
+In build 5
+
+#### What's new
+- iOS. Added some sorting options for boxes
+- iOS. Empty State View for a new box.
+
 # **0.9(4)**
 Build 4 of version 0.9 fixes a few issues. It also adds a few tweaks and life improvements
 
