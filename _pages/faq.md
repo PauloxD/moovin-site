@@ -30,7 +30,7 @@ _Why not just make it free?_ Sure, I could have made it free. But I want to eat.
 
 
 ## what's the future hold for this app?
-You can see a full road map as to what I am planning to add to this app [here](page/roadmap.md). But the top hits are:
+You can see a full road map as to what I am planning to add to this app [here](/roadmap). But the top hits are:
 
 - **Siri Integration**. I'd love to be able to ask Siri "Where are the Christmas Decorations?" Since buying 45,000 AirTags would seem a little excessive, this could be the next best thing.
 - **Protected Items**. This would give you the option to protect your items, so they are redacted in the item screen, unless authenticated. 
