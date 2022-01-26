@@ -1,3 +1,9 @@
+---
+layout: page
+title: FAQ
+include_in_header: true
+---
+
 # Frequently asked Questions
 
 Here is a list of the most frequently asked questions about this app. 
