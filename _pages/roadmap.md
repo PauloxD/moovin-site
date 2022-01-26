@@ -1,3 +1,9 @@
+---
+layout: page
+title: Road Map
+include_in_header: false
+---
+
 # Road map
 What is in the pipeline for the Moovin' app. Here you'll find everything that I'm currently working on, or what I want to add to add to future releases of this app.
 
