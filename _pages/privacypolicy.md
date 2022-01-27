@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-January 07 2022
+January 27 2022
 
 # Privacy Policy
 Your data privacy is important to us. We have done our best to outline how your data is collected, stored and deleted, as easily as possible. We encourage you to read the entire document. The Moovin' iOS app maybe referred to as ‘Moovin'’, ‘iOS app’ or ‘app’ within this document.
@@ -35,7 +35,11 @@ The app does use some Third Party Libraries. However, none of these libraries ar
 
 | Library | What is it used for? |
 | :--- | :--- |
+| CloudStorage | A wrapper around the `NSUbiqitousKeyValueStore`. Used to hold a record of whether a user has completed the onboarding process of the app.  |
+| FlatIcons | Used to create the falling items animation for a new box. |
 | MarkdownUI | Used to render Markdown text within the app. |
+| StyledText | Used to show highlighted matching characters in the search results. |
+
 
 <br>
 
