@@ -68,7 +68,7 @@ Finally got box scanning to work, there are a load of problems with orientation 
 #### What's New
 - Can scan a box
 - Can search manually based on items, or box codes
-- [Changes to Privacy Policy](/privacypolicy)
+- [Changes to Privacy Policy](moovin-site/privacypolicy)
 
 #### Known Bugs
 - Fix orientation issues with the camera
