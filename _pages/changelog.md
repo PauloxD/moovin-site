@@ -7,6 +7,15 @@ include_in_header: true
 # Changelog
 These are the moves that I have been making. From the first days of building, to moving-in day.
 
+### `Release`
+
+# **1.0 RC**
+We're at the Release Candidate stage! Most of the usability stuff in the app has been completed. Functionality seems to be working. There are a few things left to do; App Screenshots; Unit Tests; Localisation; Tidy up.
+
+#### What's new
+- iOS. Bug Reporting. You can now send feedback from within the app.
+- iOS. Siri Integration. You can now ask Siri to "Find an item".
+- [Updated Privacy Policy](moovin-site/privacy)
 
 ### `Beta`
 
