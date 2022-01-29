@@ -44,4 +44,8 @@ You can see a full road map as to what I am planning to add to this app [here](m
 
 
 ## I found a bug, what do I do?
-Eventually, I will have an support email (and website for that matter), but for now, posting a app review with the bug is fine. 
+If you are using the iOS app, you can submit a bug report by going to Settings > I found a bug. Then just fill in the information that you think will help me to find out what went wrong.
+
+You can always just post an app review with the bug. That's also fine :)
+
+Eventually, I will have an support email (and website for that matter). 
