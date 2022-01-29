@@ -19,7 +19,7 @@ We do **NOT** collect any data from you. No way to see what you're storing, no a
 What data is being collected by this app, and how it may present whilst using it.
 
 ### 1.1 Personal Information – Data that can be used to identify or contact a single person.
-Whilst using the app, you maybe asked to provide your iTunes email address and password. This data is not collected by the app, and is instead used to verify your account with Apple. Skates has no access to this data, and it is not stored at anytime. Your information will not be used for any personalised marketing. For further about how Apple may use your personal information please visit the [Apple Privacy website](https://www.apple.com/legal/privacy/en-ww/).
+Nothing. It's not possible. Anything that you store in the app is kept either locally or within your iCloud account. It is not accessible to us. If you would like any more information on how apple stores your data, you can visit the [Apple Privacy website](https://www.apple.com/legal/privacy/en-ww/).
 
 ### 1.2 Non Personal Information – data in a form that does not, on its own, permit direct association with any specific individual.
 The Moovin' app stores the Home Moves, Boxes, and items within Core Data. This is a Framework provided by Apple, and is secured by your Apple ID. We do not have access to any of the programs that you score. We do not log any keystrokes, search queries or how you use our app.
@@ -27,6 +27,10 @@ The Moovin' app stores the Home Moves, Boxes, and items within Core Data. This i
 ### 1.3 Analytics
 This app uses no Third Party Analytics or metrics. The app does utilise Apple's Logging API, but this is stored on the device, and not sent to the developer. It is used when building the app in a development environment, and is not able to transmit logs remotely from other devices.
 
+### 1.4 TestFlight and Debugging Data
+If you are using a development version of the app, through the `TestFlight` app. You maybe asked if you would like to submit feedback. This can be in the form of sceenshots or crash reports. This is voluntary option, and is not required. All data is stored through Apple, and only the crash reason is delivered. None of your personal information, such as Personal Identification Numbers, are sent.
+
+We use Apple's opt-in service for crash reporting. Your device model, iOS version, the timestamp of when the crash occurred and any other crash data that is automatically created by the Operating System, will be viewable. However, this is an **opt-in**, and can be disabled at any time.
 
 <br>
 
