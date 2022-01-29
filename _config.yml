@@ -58,6 +58,18 @@ features                                  :
   - title                                 : SwiftUI
     description                           : Moovin' has been built using SwiftUI. Been a hell of a journey.
     fontawesome_icon_name                 : code
+    
+  - title                                 : Siri Integration
+    description                           : You can use your voice to find an item. What box and room it is stored in.
+    fontawesome_icon_name                 : comments
+    
+  - title                                 : In your language
+    description                           : The plan is to have full coverage of different language support.
+    fontawesome_icon_name                 : language
+    
+  - title                                 : Accessibility
+    description                           : I have tried to put accessibility in every part of the app
+    fontawesome_icon_name                 : universal-access
 
 
 
