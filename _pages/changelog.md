@@ -9,7 +9,19 @@ These are the moves that I have been making. From the first days of building, to
 
 ### `Release`
 
-# **1.0 RC**
+# **1.0 RC (6)**
+We're getting there. A few more things have been completed. A couple of things have changed (some for the better, some because of neccessity).
+
+#### What's new
+- iOS. You can now move an item between boxes.
+- iOS. Add a picture from your gallery or from the camera.
+- iOS. Added some characteristics when creating a box. You can select whether the box is heavy or contains fragile items.
+- Added Localisation for French, Spanish, Romanian, and Japanese.
+
+#### Changed
+- Had to remove the falling animation for items, when creating a new box. This may return in the future, but it meant that I couldn't add the characteristics portion.
+
+# **1.0 RC (5)**
 We're at the Release Candidate stage! Most of the usability stuff in the app has been completed. Functionality seems to be working. There are a few things left to do; App Screenshots; Unit Tests; Localisation; Tidy up.
 
 #### What's new
