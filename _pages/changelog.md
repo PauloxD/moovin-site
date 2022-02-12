@@ -9,6 +9,13 @@ These are the moves that I have been making. From the first days of building, to
 
 ### `Release`
 
+# **1.0 RC (7)**
+Think it's going to be submitted for review.
+
+#### What's new
+- macOS. Localization has been finished.
+
+
 # **1.0 RC (6)**
 We're getting there. A few more things have been completed. A couple of things have changed (some for the better, some because of neccessity).
 
