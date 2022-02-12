@@ -14,6 +14,8 @@ Think it's going to be submitted for review.
 
 #### What's new
 - macOS. Localization has been finished.
+- macOS. Drag items from one box to another
+- macOS. Item Detail View. With support for dragging an image into the placeholder.
 
 
 # **1.0 RC (6)**
