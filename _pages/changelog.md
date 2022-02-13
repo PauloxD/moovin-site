@@ -9,8 +9,8 @@ These are the moves that I have been making. From the first days of building, to
 
 ### `Release`
 
-# **1.0 RC (7)**
-Think it's going to be submitted for review.
+# **1.0**
+We're on the store!
 
 #### What's new
 - macOS. Localization has been finished.
