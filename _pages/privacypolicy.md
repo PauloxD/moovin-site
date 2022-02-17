@@ -19,10 +19,10 @@ We do **NOT** collect any data from you. No way to see what you're storing, no a
 What data is being collected by this app, and how it may present whilst using it.
 
 ### 1.1 Personal Information – Data that can be used to identify or contact a single person.
-Nothing. It's not possible. Anything that you store in the app is kept either locally or within your iCloud account. It is not accessible to us. If you would like any more information on how apple stores your data, you can visit the [Apple Privacy website](https://www.apple.com/legal/privacy/en-ww/).
+Nothing. It's not possible. Anything that you store in the app is kept either locally or within your iCloud account. It is not accessible to us. If you would like any more information on how Apple stores your data, you can visit the [Apple Privacy website](https://www.apple.com/legal/privacy/en-ww/).
 
 ### 1.2 Non Personal Information – data in a form that does not, on its own, permit direct association with any specific individual.
-The Moovin' app stores the Home Moves, Boxes, and items within Core Data. This is a Framework provided by Apple, and is secured by your Apple ID. We do not have access to any of the programs that you score. We do not log any keystrokes, search queries or how you use our app.
+The Moovin' app stores the Home Moves, Boxes, and items within Core Data. This is a Framework provided by Apple, and is secured by your Apple ID. We do not have access to any of the data stored within your account. We do not log any keystrokes, search queries or how you use our app.
 
 ### 1.3 Analytics
 This app uses no Third Party Analytics or metrics. The app does utilise Apple's Logging API, but this is stored on the device, and not sent to the developer. It is used when building the app in a development environment, and is not able to transmit logs remotely from other devices.
@@ -40,8 +40,8 @@ The app does use some Third Party Libraries. However, none of these libraries ar
 | Library | What is it used for? |
 | :--- | :--- |
 | CloudStorage | A wrapper around the `NSUbiqitousKeyValueStore`. Used to hold a record of whether a user has completed the onboarding process of the app.  |
-| FlatIcons | Used to create the falling items animation for a new box. |
 | MarkdownUI | Used to render Markdown text within the app. |
+| OctoKit | Used to submit feedback. |
 | StyledText | Used to show highlighted matching characters in the search results. |
 
 
