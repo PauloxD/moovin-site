@@ -17,7 +17,7 @@ Yep, you could do that. You could tailor it to your exact needs. I created the a
 
 
 ## Can I only use it when moving house?
-So, here's the little bit of an extra thing with this app. I designed it with simplicity in mind, I specifically tired to stay away from providing drop down options. My reason for this, is that it allows you to continue using the app even after you've moved in. You can create a box, call it what you like, maybe kitchen cupboard, and put your items in that. Then when you forget where you put your "Queen of England coming for dinner" china, just whip the app out, and boom!
+So, here's a little bit of an extra thing with this app. I designed it with simplicity in mind, I specifically tried to stay away from providing drop down options. My reason for this, is that it allows you to continue using the app even after you've moved in. You can create a box, call it what you like, maybe kitchen cupboard, and put your items in that. Then when you forget where you put your "Queen of England coming for dinner" china, just whip the app out, and boom!
 
 
 ## Why not use a QR code instead of the code?
