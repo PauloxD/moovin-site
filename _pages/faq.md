@@ -39,8 +39,8 @@ _Why not just make it free?_ Sure, I could have made it free. But I want to eat.
 You can see a full road map as to what I am planning to add to this app [here](../roadmap). But the top hits are:
 
 - **Siri Integration**. I'd love to be able to ask Siri "Where are the Christmas Decorations?" Since buying 45,000 AirTags would seem a little excessive, this could be the next best thing.
-- **Protected Items**. This would give you the option to protect your items, so they are redacted in the item screen, unless authenticated. 
-- **Pictures for items**. The ground work has already been laid for this within the app. Just needs implementing, but I would like to offer you the ability to take pictures of your items, giving you a quick visual way of picking the item you are after. 
+- **Exporting**. When all else fails, it would be nice to be able to export to various file types. Maybe PDF, or some spreadsheet. 
+
 
 
 ## I found a bug, what do I do?
