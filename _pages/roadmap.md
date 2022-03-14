@@ -9,13 +9,13 @@ What is in the pipeline for the Moovin' app. Here you'll find everything that I'
 
 
 ## In progress 
-- Attachments to the item. Meaning you can take a picture of your possessions. 
-- Protection Status of an item. Meaning you can redact an item unless authenticated
+- Exporting to a PDF
 
 
 ## Near future
 - Siri Integration
 - Widgets showing a pinned box, or number of boxes in each room.
+- Exporting to a spreadsheet
 
 
 ## Hopeful wish list
