@@ -9,6 +9,19 @@ These are the moves that I have been making. From the first days of building, to
 
 ### `Release`
 
+# **1.0.1**
+Been quite a ride getting to this point. This update provides a few features that I felt were required, and a few that are nice to haves.
+
+#### What's Changed:
+- When adding a new box, you can pick from locations that you have already added into to the app. Meaning quicker input
+- You can move items between different boxes.
+- Filter your boxes by whether they contain heavy or fragile objects.
+- Protected Boxes. You can now provide protection to your boxes. I mean, not literally. Your phone isn't going to suddenly turn into Arnie. But, you can hide items contained in a box from others using biometrics.
+- Attachments. You can take a picture of the items in the box for ease when trying to find what you're looking for.
+- Fixed a bug on iPad that meant that the description of an item, would cause the whole screen to have a fit.
+- Localisation improvements
+- MacOS has some improvements to the way in which a user can interact with the app. Drag and drop boxes into different locations, or items to different boxes.
+
 # **1.0**
 We're on the store!
 
