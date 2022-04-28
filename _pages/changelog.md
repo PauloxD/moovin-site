@@ -9,6 +9,19 @@ These are the moves that I have been making. From the first days of building, to
 
 ### `Release`
 
+# **1.0.2**
+It's been a little while since I posted an update. This update includes the following changes and improvements
+
+#### What's new
+- You can now export any home move to PDF as a checklist. This could come in useful if you are going old school.
+
+#### What's changed
+- Performance improvements attached to image loading.
+- Fixed a small loophole that allowed you to add items with no name.
+- macOS. Fleshed out the Help section. Just in case you get stuck. 
+- macOS. Added a way report any bugs you discover, that need squishing.
+
+
 # **1.0.1**
 Been quite a ride getting to this point. This update provides a few features that I felt were required, and a few that are nice to haves.
 
